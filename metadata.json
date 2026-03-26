@@ -1,0 +1,5 @@
+{
+  "name": "Magic Background Remover",
+  "description": "Aplikasi penghapus latar belakang berbasis AI yang menggunakan Gemini untuk memisahkan objek dan membuat transparansi PNG berkualitas tinggi.",
+  "requestFramePermissions": []
+}
